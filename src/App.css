@@ -9,7 +9,7 @@
 
 .watches-box {
 	padding: 70px 0;
-	background: #E5FFC3;
+	background: gainsboro;
   }
   .section-title h1 {
 	font-weight: 700;
@@ -59,8 +59,6 @@
 	font-size: 25px;
 	font-weight: 600;
   }
-  .content {
-  }
   .single-watch-product .content span {
 	color: white;
 	background: red;
@@ -108,7 +106,7 @@
 	font-size: 28px;
 	font-weight: 600;
 	margin-bottom: 18px;
-	color: red;
+	color: rgb(15, 15, 15);
 	margin-top: 30px;
 }
 

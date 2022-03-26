@@ -1,9 +1,10 @@
 import "./App.css";
+import 'bootstrap/dist/css/bootstrap.min.css';
 import React, { useState } from "react";
 import watches from "./fakeData/watches";
 import Watch from "./component/Watch/Watch";
 import SelectedWatch from "./component/SelectedWatch/SelectedWatch";
-import Modal from "./component/Modal/Modal";
+import Modal from "./component/Modals/Modals";
 import SectionTitle from "./component/SectionTitle/SectionTitle";
 import SubTitle from "./component/SubTitle/SubTitle";
 import Warning from "./component/Warning/Warning";

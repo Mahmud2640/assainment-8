@@ -15,7 +15,7 @@ const Watch = (props) => {
                 <div
                     className="watch-bg"
                     style={{
-                        backgroundImage:`url(${img})`,                    
+                        backgroundImage:`url(${img}`,                    
                     }}
                 ></div>
                 <div className="content">

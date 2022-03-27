@@ -1,5 +1,5 @@
 import "./App.css";
-import 'bootstrap/dist/css/bootstrap.min.css';
+import "bootstrap/dist/css/bootstrap.min.css";
 import React, { useState } from "react";
 import watches from "./fakeData/watches";
 import Watch from "./component/Watch/Watch";
@@ -9,6 +9,7 @@ import SectionTitle from "./component/SectionTitle/SectionTitle";
 import SubTitle from "./component/SubTitle/SubTitle";
 import Warning from "./component/Warning/Warning";
 import Questions from "./component/Questions/Questions";
+
 
 function App() {
   const [selectedWatches, setSelectedWatches] = useState([]);
